@@ -41,10 +41,10 @@ nav{
     .ft{
         flex-direction: column;
         display: block;
+        align-items: center;
 
     }
     .card{
-        margin-top: 20px;
         width: 270px;
         height: 300px;
     }
